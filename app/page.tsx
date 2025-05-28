@@ -4,7 +4,7 @@ import { useState } from "react";
 import Image from "next/image";
 import Marquee from "react-fast-marquee";
 import { Button } from "@/components/ui/button";
-import { User, Mail, Linkedin, Twitter } from "lucide-react";
+import { Mail, Linkedin, Twitter } from "lucide-react";
 
 // Example employer logos and testimonials
 const employerLogos = [
